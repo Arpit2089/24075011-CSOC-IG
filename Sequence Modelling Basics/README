@@ -1,0 +1,1 @@
+This folder contains source code of implementations of suitable architectures of RNNs and improvements upon it such as LSTM applied to a specific task of sentiment analysis on Amazon reviews dataset.
